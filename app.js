@@ -222,4 +222,3 @@ app.listen(3000, function(req, res) {
     console.log("Server running at port 3000");
 });
 
-// ### TODO: sửa lỗi cứ mỗi lần đăng nhập lại bị tạo 1 document mới trong DB
